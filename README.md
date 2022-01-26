@@ -1,7 +1,5 @@
 Hi
 
-Data
-
-Python
-
-Machine Learning
+Data  
+Python   
+Machine Learning  
